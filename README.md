@@ -4,7 +4,7 @@
 
 PintOS is an open source instructional operating system kernel developed by Stanford University. PintOS provides complete documentation & modular projects to introduce students to the major concepts of operating systems development. The components of PintOS project is illustrated in the following figure.
 
-![PintOS Components](resources/pintos_components.png "PintOS Components")
+<img width="1306" height="676" alt="image" src="https://github.com/user-attachments/assets/7205c602-d1f0-4a63-970b-70fb95cc52c7" />
 
 The project is divided into four phases:
 
